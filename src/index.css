@@ -1,0 +1,14 @@
+.tile {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.tile.selected {
+  background-color: green;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}

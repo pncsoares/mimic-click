@@ -21,7 +21,8 @@ function changeBackgroundColor() {
 }
 
 function getRandomInteger(min, max) {
-    return Math.floor(Math.random() * (max - min) + min);
+    const randomFloat = getRandomFloat(min, max);
+    return Math.floor(randomFloat);
 }
 
 function getRandomFloat(min, max) {

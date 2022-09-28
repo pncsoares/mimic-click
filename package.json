@@ -1,0 +1,28 @@
+{
+    "name": "mimic-click",
+    "version": "1.0.0",
+    "description": "You select, I unselect in the same order as you selected",
+    "main": "index.js",
+    "dependencies": {
+        "prettier": "^2.7.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pncsoares/mimic-click.git"
+    },
+    "keywords": [
+        "select",
+        "unselect",
+        "mimic"
+    ],
+    "author": "Pedro Soares",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pncsoares/mimic-click/issues"
+    },
+    "homepage": "https://github.com/pncsoares/mimic-click#readme"
+}
